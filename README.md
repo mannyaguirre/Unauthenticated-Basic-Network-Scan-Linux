@@ -145,7 +145,7 @@ The final step was to perform cleanup by deleting the virtual machine to prevent
 ## Key Takeaways
 
 - Credentials are not needed to perform a Unauthenticated Basic Network Scan.
-- Perform Ping Test in Terminal to ensure connection
+- Perform Ping Test in Terminal to ensure connection.
 - Unauthenticated Basic Network Scan is not as detailed as a Authenticated Basic Network Scan.
 - Always review scan results for possible vulnerabilities.
 
