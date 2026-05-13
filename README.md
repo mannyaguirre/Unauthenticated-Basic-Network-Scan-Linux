@@ -6,7 +6,7 @@
 
 ## Overview
 
-The purpose of this lab was to complete an Unauthenticated Basic Network Scan. An Unauthenticated Basic Network Scan is used to identify possible vulnerabilities that can be discovered without credentials. This type of scan is considered superficial since it does not go in depth vs a Authenticated Network Scan.
+The purpose of this lab was to complete an Unauthenticated Basic Network Scan. An ***Unauthenticated Basic Network Scan*** is used to identify possible vulnerabilities that can be discovered without credentials. This type of scan is considered superficial since it does not go in depth vs a ***Authenticated Network Scan***.
 
 In this lab I provisioned a Linux Virtual Machine, performed a ping test in terminal via SSH, logged into the Linux VM in terminal via SSH, created the Unauthenticated Basic Network Scan, reviewed the results from the scan, deleted the virtual machine.
 
